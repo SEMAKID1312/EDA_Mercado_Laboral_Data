@@ -42,20 +42,20 @@ src/data/data_dictionary.csv
 
 ```text
 .
-├── README.md
-├── main.ipynb
-└── src
-    ├── data
-    │   ├── develop_dataset_2025.csv
-    │   ├── develop_dataset_2025_limpio.csv
-    │   └── data_dictionary.csv
-    ├── notebooks
-    │   ├── notebook_eda_inicial.ipynb
-    │   ├── analisis_univariante.ipynb
-    │   ├── analisis_bivariante.ipynb
-    │   └── analisis_multivariante.ipynb
-    └── utils
-        └── funciones.py
++-- README.md
++-- main.ipynb
++-- src
+    +-- data
+    |   +-- develop_dataset_2025.csv
+    |   +-- develop_dataset_2025_limpio.csv
+    |   +-- data_dictionary.csv
+    +-- notebooks
+    |   +-- notebook_eda_inicial.ipynb
+    |   +-- analisis_univariante.ipynb
+    |   +-- analisis_bivariante.ipynb
+    |   +-- analisis_multivariante.ipynb
+    +-- utils
+        +-- funciones.py
 ```
 
 ## Archivos principales
